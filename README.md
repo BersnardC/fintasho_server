@@ -6,6 +6,9 @@
  - Recomendaciones (XAMP o WAMP)
  - Colocar carpeta del proyecto en htdocs (Xampp)
 
+## Instalar dependencias
+composer install
+
 ## Configurar DB
 Ir al archivo .env  y configurar credenciales de base de datos mysql
 
